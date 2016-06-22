@@ -1,2 +1,2 @@
 cd /Users/synerzip/Downloads
-mkdir testJenkins 
+mkdir testJenkins1 
